@@ -1,0 +1,34 @@
+body{
+	padding: 10px 50px 10px 50px;
+	background-color: #FAFBFF;
+}
+
+.orange-text{
+	color: #FF5100;
+}
+
+.black-text{
+	color: #242529;
+}
+
+
+
+.gray-text{
+	color: #43444A;
+}
+
+.font-roboto{
+	font-family: Roboto;
+}
+
+.medium-size-text{
+	font-size: 45px;
+}
+
+.header-text{
+	font-size: 150px;
+}
+
+.bold-text{
+	font-weight: bold;
+}
